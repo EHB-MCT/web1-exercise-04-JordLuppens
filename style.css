@@ -1,1 +1,16 @@
-/* nothing here */
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@700;800&display=swap');
+
+body{
+    font-family: 'BioRhyme', serif;
+}
+
+p{
+    font-size: 15px;
+    color: gray;
+    max-width: 400px;
+}
+
+h1{
+    line-height: 15px;
+    color: salmon;
+}
